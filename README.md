@@ -1,5 +1,5 @@
 # c-plus-plus-nested-template-example
-Place holder for a useful snippet, a I invariably always struggle to
+Place holder for a useful snippet, I invariably always struggle to
 get this syntax correct. Hope it helps someone else.
 
 ```C++
@@ -33,7 +33,7 @@ int main() {
 
 And the equivalent to the above, but using value_type
 
-```
+```C++
 #include <iostream>
 #include <list>
 
